@@ -1,2 +1,2 @@
 # data-projects
-Personal :data: :analysis: projects
+Personal data analysis projects.
