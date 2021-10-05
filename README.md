@@ -1,2 +1,2 @@
 # data-projects
-Personal dat analysis projects
+Personal data analysis projects
